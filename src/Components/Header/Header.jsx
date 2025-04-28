@@ -35,7 +35,7 @@ const Header = () => {
             <li>
               <Link
                 activeClass="active"
-                  onClick={() => setMenuOpened(false)}
+                onClick={() => setMenuOpened(false)}
                 to="home"
                 spy={true}
                 smooth={true}

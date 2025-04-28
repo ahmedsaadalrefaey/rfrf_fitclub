@@ -42,7 +42,7 @@ const Testimonials = () => {
           exit={{opacity: 0, x: 100}}
           transition={transition}
           style={{color: 'var(--orange)'}}>
-            {testimonialsData[selected].name}
+          {testimonialsData[selected].name}
           </motion.span>
          {" "} - {testimonialsData[selected].status}
         </span>
