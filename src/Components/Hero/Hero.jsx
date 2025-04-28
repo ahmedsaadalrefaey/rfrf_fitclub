@@ -43,7 +43,7 @@ const Hero = () => {
         <div className="hero-text">
 
           <div>
-            <span className='stroke-text'>HHHHHHHH </span>
+            <span className='stroke-text'>Shape </span>
             <span>YOUR</span>
           </div>
 
